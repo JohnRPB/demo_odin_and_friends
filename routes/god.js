@@ -1,3 +1,5 @@
+// GODS router
+
 var express = require('express');
 var router = express.Router();
 const {God, gods} = require('../models/gods')
